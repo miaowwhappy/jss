@@ -4,6 +4,7 @@
 		this.config = {
 			width : 100,
 			height : 300,
+			delay : 200,
 		};
 		$.extend(this.config,outConfig);
 		console.log(this.config);
