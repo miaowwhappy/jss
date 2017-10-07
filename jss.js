@@ -3,6 +3,7 @@
 		var me = this;
 		this.config = {
 			width : 100,
+			height : 300,
 		};
 		$.extend(this.config,outConfig);
 		console.log(this.config);
